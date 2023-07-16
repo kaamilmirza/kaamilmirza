@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaamilmirza&label=Profile%20views&color=0e75b6&style=flat" alt="kaamilmirza" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mirzakaamil" target="blank"><img src="https://img.shields.io/twitter/follow/mirzakaamil?logo=twitter&style=for-the-badge" alt="mirzakaamil" /></a> </p>
-
 - 🔭 I’m currently working on [Companion app](https://github.com/tanishq5414)
 
 - 👯 I’m looking to collaborate on [Companion app](https://github.com/tanishq5414)
