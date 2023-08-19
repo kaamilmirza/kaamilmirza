@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Everything, lmk how can you help :`(**
 
-- 👨‍💻 All of my projects are available at [www.lightheads.org](www.lightheads.org)
+- 👨‍💻 All of my projects are either available here or mail me for deets.
 
 - 📝 I regularly write articles on [https://medium.com/@kaamil.mirza.2002](https://medium.com/@kaamil.mirza.2002)
 
