@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaamilmirza&label=Profile%20views&color=0e75b6&style=flat" alt="kaamilmirza" /> </p>
 
+<!---
 - 🔭 I’m currently working on [Companion app](https://github.com/tanishq5414)
 
 - 👯 I’m looking to collaborate on [Companion app](https://github.com/tanishq5414)
+-->
 
 - 🤝 I’m looking for help with **Everything, lmk how can you help :`(**
 
