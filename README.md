@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Web & Android Developer, SDE Intern @Lumara Jewels</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaamilmirza&label=Profile%20views&color=0e75b6&style=flat" alt="kaamilmirza" /> </p>
-
+<a href="https://wakatime.com/@75a45536-100f-4e4c-b2ab-50193986c7f6"><img src="https://wakatime.com/badge/user/75a45536-100f-4e4c-b2ab-50193986c7f6.svg" alt="Total time coded since Sep 3 2023" /></a>
 <!---
 - 🔭 I’m currently working on [Companion app](https://github.com/tanishq5414)
 
